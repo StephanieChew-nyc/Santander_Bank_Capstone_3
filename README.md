@@ -3,7 +3,7 @@
 
 **Objective:** To analyze new customers who open checking accounts at Santander Bank and how to gain younger customers.
 
-**Goal:** New customer acquisition by opening popular deposit accounts.
+**Goal:** New customer acquisition by opening popular deposit accounts and age.
 
 **Next Steps:**
 * Dig deeper on customer acquisition analysis for term accounts.
@@ -11,4 +11,4 @@
 * Analyze marketing campaigns (digital ads, social media, etc.) and find out how to attract the younger audience.
 * Find out total deposit amount.
 
-**Source:** [Kaggle](https://www.kaggle.com/c/santander-product-recommendation/overview)# Santander_Bank_Capstone_3
+**Source:** [Kaggle](https://www.kaggle.com/c/santander-product-recommendation/overview)
